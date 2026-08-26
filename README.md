@@ -54,7 +54,7 @@ Topics include:
  - Technical training for SAE members
  - Manufacturing coordination between Formula SAE and Baja SAE
 
-Project: [(./engineering-leadership-outreach)](https://github.com/uriasdev/engineering-leadership-outreach)
+Project: [engineering-leadership-outreach](https://github.com/uriasdev/engineering-leadership-outreach)
 
 ## Technical Interests
 
