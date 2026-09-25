@@ -93,4 +93,4 @@ I am currently pursuing full-time and new-grad opportunities beginning in 2027, 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/devin-urias-11226526a/)linkedin.com/in/devin-urias-11226526a/)
+[LinkedIn](https://www.linkedin.com/in/devin-urias-11226526a/)
