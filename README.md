@@ -2,90 +2,95 @@
 
 I am an Electrical Engineering senior at California State University, Long Beach, graduating in May 2027
 
-I am interested in electronics, electrical hardware design, PCB development, and multidisciplinary system integration. My work has focused on engineering projects involving LV and HV electrical systems, controls, testing/troubleshooting, and technical documentation.
+I am interested in **electronics, electrical hardware design, PCB development, embedded systems, and multidisciplinary system integration**. My experience includes Formula SAE electrical development, analog IC design, hardware validation, Linux-based systems, and engineering leadership.
 
 ## Current Work
 
-### Formula SAE Electrics Lead
+### CSULB Formula SAE — Electrics Lead
 
-I serve as the Electrics Lead for CSULB Formula SAE, where I lead five electrical subgroups supporting development of the team's electric vehicle.
+I lead five electrical subgroups supporting development of our electric Formula SAE vehicle.
 
 My work includes:
+- 12 V shutdown and safety systems
+- PCB and schematic development
+- Wire harness design
+- BSPD, TSAL, and precharge/discharge systems
+- BMS and charging integration
+- Cooling system controls
+- Electrical BOM and component selection
+- Integration of low- and high-voltage systems
+- Cross-functional coordination with mechanical and vehicle subsystem teams
 
- - 12 V grounded low-voltage safety and shutdown systems
- - PCB development
- - Wire harness design and electrical integration
- - BSPD and TSAL development
- - Cooling-pump PID control
- - BMS and charging-system integration
- - HV fuse-box development
- - Electrical BOM management and component selection
- - Integration planning for a 508 V accumulator system rated to 180 A
- - Coordination with mechanical and vehicle subsystem leads
+## Featured Projects
 
-I also organize technical training and manufacturing activities for SAE members.
+### Two-Stage CMOS Operational Amplifier
 
-Featured Projects
-Raspberry Pi 4 Home Router & Network Test Platform
+Designed and simulated a transistor-level two-stage CMOS operational amplifier in Cadence Virtuoso using a 45 nm PDK.
 
-Designed, configured, and deployed a Linux-based home router using a Raspberry Pi 4, TP-Link Omada EAP650 Wi-Fi 6 access point, and Gigabit Ethernet switch.
+Current work includes:
+- AC and transient testbench development
+- Gain, bandwidth, slew rate, settling time, offset, and power characterization
+- Physical layout
+- DRC/LVS verification
+- Parasitic extraction
+- Post-layout simulation
+
+### Raspberry Pi 4 Home Router
+
+Designed, configured, and deployed a Linux-based home router using a Raspberry Pi 4, Gigabit Ethernet switch, and TP-Link Omada EAP650 access point.
 
 The project included:
+- DHCP/DNS
+- IPv4 forwarding and NAT
+- nftables firewall configuration
+- Ethernet and wireless benchmarking
+- Troubleshooting and validation
+- A reproducible engineering lab guide
 
- - DHCP and DNS configuration
- - IPv4 forwarding and NAT
- - nftables firewall configuration
- - Static network addressing
- - Wired and wireless performance testing
- - Troubleshooting and system validation
- - A 31-page reproducible engineering lab guide
+[View Project](https://github.com/uriasdev/raspberry-pi-router)
 
-Project: [raspberry-pi-router](https://github.com/uriasdev/raspberry-pi-router)
+### Engineering Leadership & Outreach
 
-## Engineering Leadership & Outreach
+This repository documents technical leadership and outreach work completed through CSULB SAE.
 
-Documentation of technical leadership, manufacturing education, and outreach activities completed through CSULB SAE.
+Examples include:
+- Organizing MIG and TIG welding workshops
+- Helping identify the need for improved manufacturing coordination between Formula SAE and Baja SAE
+- Supporting Week of Welcome recruitment efforts that generated **300+ prospective member sign-ups over two days**
+- Participating in industry discussions related to EV battery development, manufacturing, outsourcing, and sponsorship support
+- Leading Formula SAE electrical development across multiple subgroups
 
-Topics include:
-
- - Formula SAE electrical leadership
- - MIG and TIG welding workshops
- - Manufacturing safety and process selection
- - Technical training for SAE members
- - Manufacturing coordination between Formula SAE and Baja SAE
-
-Project: [engineering-leadership-outreach](https://github.com/uriasdev/engineering-leadership-outreach)
+[View Leadership & Outreach](https://github.com/uriasdev/engineering-leadership-outreach)
 
 ## Technical Interests
 
-- Electronics and hardware design
-- PCB design and development
+- PCB and circuit design
+- Analog and mixed-signal electronics
 - Embedded systems
-- Power distribution
-- Electrical system integration
 - Hardware testing and validation
-- Controls
+- Electrical system integration
 - Electric vehicle systems
-- Linux-based embedded systems
+- Controls
+- Linux-based systems
 
 ## Tools & Technologies
 
-Design & Simulation: KiCad, LTspice, MATLAB/Simulink, RapidHarness, AutoCAD
-Programming: C/C++, Python, MATLAB, VHDL
-Hardware: Raspberry Pi, Arduino, FPGA, oscilloscopes, multimeters
-Systems: Linux, embedded control, PWM, PID control, electrical troubleshooting
+**Circuit / PCB:** KiCad, Cadence Virtuoso, LTspice  
+**Programming / Embedded:** C/C++, Python, MATLAB/Simulink, VHDL  
+**Hardware / Test:** Oscilloscope, multimeter, Raspberry Pi, Arduino, FPGA  
+**Systems:** RapidHarness, Linux, Ethernet
 
 ## Professional Interests
 
-I am currently preparing for full-time and new-grad electrical engineering opportunities beginning in 2027, particularly roles involving:
+I am currently pursuing full-time and new-grad opportunities beginning in 2027, particularly in:
 
- - Electrical hardware
- - Electronics design
- - PCB development
- - Embedded hardware
- - Test and validation
- - Electrical system integration
+- Electrical hardware
+- Electronics design
+- PCB development
+- Embedded hardware
+- Hardware validation
+- Electrical system integration
 
-Connect With Me
+## Connect
 
-[https://www.linkedin.com/in/devin-urias-11226526a/](https://www.linkedin.com/in/devin-urias-11226526a/)
+[LinkedIn](https://www.linkedin.com/in/devin-urias-11226526a/)linkedin.com/in/devin-urias-11226526a/)
